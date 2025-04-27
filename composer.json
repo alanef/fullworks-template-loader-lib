@@ -17,7 +17,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Fullworks_Template_Loader_Lib\\Tests\\": "tests/"
+      "Fullworks_Template_Loader_Lib2\\Tests\\": "tests/"
     }
   },
   "require": {
