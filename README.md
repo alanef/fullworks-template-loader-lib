@@ -28,7 +28,7 @@ Then run `composer install` or `composer update`.
 
 ### 1. Create a Template Loader Class
 
-Create a class that extends `Fullworks_Template_Loader_Lib\BaseLoader`:
+Create  class that extends `Fullworks_Template_Loader_Lib\BaseLoader`:
 
 ```php
 <?php
